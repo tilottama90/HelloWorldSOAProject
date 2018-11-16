@@ -1,0 +1,1 @@
+C:\Oracle\Middleware\Oracle_Home\oracle_common\common\bin\wlst.cmd Deploy.py
